@@ -1,0 +1,1 @@
+{"version":3,"file":"light.model.js","sourceRoot":"","sources":["../../src/models/light.model.ts"],"names":[],"mappings":";;;;;;AAAA,wDAAgC;AAMhC,MAAM,WAAW,GAAG,IAAI,kBAAQ,CAAC,MAAM,CAAC;IACxC,MAAM,EAAC;QACH,IAAI,EAAE,MAAM;QACZ,OAAO,EAAE,KAAK;KACjB;CACA,CAAC,CAAC;AAEU,QAAA,UAAU,GAAG,kBAAQ,CAAC,KAAK,CAAC,aAAa,EAAC,WAAW,CAAC,CAAC"}
